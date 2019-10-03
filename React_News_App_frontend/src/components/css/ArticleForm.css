@@ -1,0 +1,19 @@
+.form {
+margin-left: 30px;
+margin-top: 60px;
+}
+
+.summaryField {
+  width: 80%;
+  height: 56px;
+}
+
+.contentField {
+  width: 80%;
+  height: 100px;
+}
+
+
+.submitArticle {
+  margin-top: 10px;
+}

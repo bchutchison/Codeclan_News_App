@@ -1,0 +1,38 @@
+
+
+.top-story-info {
+  display: block;
+}
+
+.top-story img {
+  float: left;
+  max-width: 500px;
+  width: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.top-story button {
+  width: 100%;
+  font-size: 10px;
+}
+
+.journalist-tag {
+  font-size: 14px;
+  float: right;
+}
+
+.top-story p {
+  font-size: 16px;
+}
+
+
+
+.top-story-info {
+  margin-top: 40px;
+}
+
+.top-story h4 {
+  font-style: italic;
+}

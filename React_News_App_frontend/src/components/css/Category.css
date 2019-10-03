@@ -1,0 +1,33 @@
+/* .category-button {
+  overflow: hidden;
+  display: inline;
+  overflow: none;
+  white-space: nowrap;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+} */
+
+
+.category-button button {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  background-color: darkred;
+  display: inline;
+  float: top left;
+  color: white;
+  width: 8%;
+  height: 50px;
+  margin: 0px;
+  margin-top: 0px;
+  border: 0px;
+}
+
+.category-button button:hover{
+  background-color: crimson;
+}
+
+.category-button button:focus{
+  background-color: crimson;
+}

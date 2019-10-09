@@ -1,4 +1,5 @@
 CodeClan News Application
+
 Web application for a client who would like to upload and display news articles.
 
 GitHub links
